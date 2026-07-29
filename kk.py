@@ -1,1 +1,1 @@
-print("koushika welcomes you")
+print("hi i am rich")
