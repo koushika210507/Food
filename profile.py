@@ -6,5 +6,5 @@ def profile():
     email = input("Enter Email : ")
 
     print("\nProfile Saved")
-    print("Name :", name)
+    print(" Your Name :", name)
     print("Email :", email)
