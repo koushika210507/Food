@@ -7,4 +7,4 @@ def profile():
 
     print("\nProfile Saved")
     print(" Your Name :", name)
-    print("Email :", email)
+    print(" Your Email :", email)
