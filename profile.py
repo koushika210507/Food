@@ -2,7 +2,7 @@ def profile():
 
     print("\n===== PROFILE =====")
 
-    name = input("Enter Name : ")
+    name = input("Enter your Name : ")
     email = input("Enter Email : ")
 
     print("\nProfile Saved")
