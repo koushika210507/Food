@@ -6,7 +6,7 @@ from profile import profile
 from reservation import reserve_table
 
 print("===== WELCOME TO FOOD  EXPRESS =====")
-print("hi welcome to food express!")
+print("Hi")
 role = login()
 
 if role == "Customer":
