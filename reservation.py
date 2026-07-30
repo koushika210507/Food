@@ -5,4 +5,4 @@ def reserve_table():
     name = input("Enter Name : ")
     guests = input("Number of Guests : ")
 
-    print("Reservation Successful")
+    print("Reservation is Successful")
